@@ -1,0 +1,13 @@
+{
+"companyName": "dkol2000",
+"productName": "rotating_cube",
+"dataUrl": "rotatingCube_webgl.data.unityweb",
+"asmCodeUrl": "rotatingCube_webgl.asm.code.unityweb",
+"asmMemoryUrl": "rotatingCube_webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "rotatingCube_webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
